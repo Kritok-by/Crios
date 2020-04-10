@@ -155,10 +155,10 @@ h2 {
     display: flex;
 }
 .john-doe {
-    width: 50%;
+    object-fit: cover;
 }
 .about {
-    padding-top: 210px;
+    padding-top: 15%;
     padding-left: 8%;
 }
 .five-heading {
