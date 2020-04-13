@@ -99,7 +99,6 @@ h2 {
     text-decoration: none;
     color: #43a9ff;
     font-weight: bold;
-    font-style: 14px;
     background-color: #fff;
     box-shadow: 0 0 15px 20px #f5f8fa;
     display: inline-block;
@@ -356,4 +355,5 @@ footer {
 @media (max-width: 450px) {
     .burger {
         margin-top: 160px;
+    }
 }
