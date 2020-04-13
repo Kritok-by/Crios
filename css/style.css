@@ -253,6 +253,9 @@ footer {
     }
 }
 @media (max-width: 1320px) {
+    .text-block {
+        padding-top: 12%;
+    }
     .john-doe {
         width: 40%;
     }
@@ -342,7 +345,7 @@ footer {
         margin: 0 5%;
     }
     .music img, .chat img {
-        width: 100%;
+        width: 70%;
     }
     footer {
         padding-top: 50px;
