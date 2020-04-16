@@ -351,11 +351,6 @@ footer {
         padding-bottom: 800px;
         background-size: cover;
     }
-}
-@media (max-width: 450px) {
-    .burger {
-        margin-top: 160px;
-    }
     .content-music, .content-chat, .text-block, .block-img-item {
         padding-left: 0;
         padding-right: 0;
@@ -365,5 +360,10 @@ footer {
         margin-bottom: 10%;
         width: auto;
 
+    }
+}
+@media (max-width: 450px) {
+    .burger {
+        margin-top: 160px;
     }
 }
