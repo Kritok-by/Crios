@@ -356,4 +356,14 @@ footer {
     .burger {
         margin-top: 160px;
     }
+    .content-music, .text-block, .block-img-item {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .about .about-paragraph {
+        margin: 0;
+        margin-bottom: 10%;
+        width: auto;
+
+    }
 }
