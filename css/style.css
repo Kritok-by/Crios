@@ -356,7 +356,7 @@ footer {
     .burger {
         margin-top: 160px;
     }
-    .content-music, .text-block, .block-img-item {
+    .content-music, .content-chat, .text-block, .block-img-item {
         padding-left: 0;
         padding-right: 0;
     }
